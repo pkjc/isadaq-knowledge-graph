@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm">
+		<feature:presentin>patient1_angiyography</feature:presentin>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm/patient1_angiyography">
+		<feature:hasFeatures>anatomical_features_p1</feature:hasFeatures>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm/patient1_angiyography/anatomical_features_p1">
+		<feature:hasfeature>bottleneck_factor_p1</feature:hasfeature>
+		<feature:hasfeature>aspect_ratio_p1</feature:hasfeature>
+		<feature:hasfeature>size_ratio_p1</feature:hasfeature>
+		<feature:hasfeature>surface_area_p1</feature:hasfeature>
+		<feature:hasfeature>hemodynamic_factor_p1</feature:hasfeature>
+		<feature:hasfeature>neck_diameter_p1</feature:hasfeature>
+		<feature:hasfeature>perpendicular_height_from_neck_p1</feature:hasfeature>
+		<feature:hasfeature>maximum_height_p1</feature:hasfeature>
+		<feature:hasfeature>maximum_width_p1</feature:hasfeature>
+		<feature:hasfeature>average_diameter_of_connecting_artery_p1</feature:hasfeature>
+		<feature:hasfeature>socre_p1</feature:hasfeature>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm/patient1_angiyography/aspect_ratio_p1">
+		<feature:hasValue>1.9</feature:hasValue>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm/patient1_angiyography/size_ratio_p1">
+		<feature:hasValue>2.97</feature:hasValue>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm/patient1_angiyography/surface_area_p1">
+		<feature:hasValue>5</feature:hasValue>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm/patient1_angiyography/hemodynamic_factor_p1">
+		<feature:hasValue>0.72</feature:hasValue>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm/patient1_angiyography/neck_diameter_p1">
+		<feature:hasValue>39</feature:hasValue>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm/patient1_angiyography/perpendicular_height_from_neck_p1">
+		<feature:hasValue>74</feature:hasValue>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm/patient1_angiyography/maximum_height_p1">
+		<feature:hasValue>86</feature:hasValue>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm/patient1_angiyography/maximum_width_p1">
+		<feature:hasValue>75</feature:hasValue>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm/patient1_angiyography/average_diameter_of_connecting_artery_p1">
+		<feature:hasValue>29</feature:hasValue>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://Oakland.edu/Aneurysm/patient1_angiyography/score_p1">
+		<feature:hasValue>3.51</feature:hasValue>
+	</rdf:Description>
+
+</rdf:RDF>
