@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient1_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient1_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/h1jvx9ve2vff6rg/01.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.87</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.90</feature:hasAspectRatio>
+<feature:hasSizeRatio>3.38</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>0.72</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>39</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>74</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>98</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>73</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>29</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.67</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient2_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient2_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/15p4ffra9utnzwe/02.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.29</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.47</feature:hasAspectRatio>
+<feature:hasSizeRatio>3.85</feature:hasSizeRatio>
+<feature:hasSurfaceArea>3</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>4.08</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>34</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>50</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>50</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>44</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>13</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.15</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient3_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient3_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/h3ximcmkjirhjwo/03.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>3.38</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>4.00</feature:hasAspectRatio>
+<feature:hasSizeRatio>3.60</feature:hasSizeRatio>
+<feature:hasSurfaceArea>4</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>1.14</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>16</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>64</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>72</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>54</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>20</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.67</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient4_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient4_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/tsxhhvne5mqykeu/04.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.02</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.09</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.33</feature:hasSizeRatio>
+<feature:hasSurfaceArea>4</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>1.96</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>55</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>60</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>77</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>56</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>33</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.79</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient5_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient5_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/gu2knc3pg0cpd43/05.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>3.97</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>5.21</feature:hasAspectRatio>
+<feature:hasSizeRatio>7.95</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>2.26</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>29</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>151</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>159</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>115</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>20</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>6.01</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient6_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient6_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/xzsdomhtcf24z1i/06.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.94</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.08</feature:hasAspectRatio>
+<feature:hasSizeRatio>4.14</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>0.84</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>36</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>75</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>87</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>70</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>21</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>4.00</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient7_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient7_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/tx87ogtk0s76qvy/07.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.42</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>0.89</feature:hasAspectRatio>
+<feature:hasSizeRatio>4.29</feature:hasSizeRatio>
+<feature:hasSurfaceArea>3</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>1.84</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>45</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>40</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>60</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>64</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>14</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.17</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient8_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient8_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/b60edb490zhe95z/08.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>2.14</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.75</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.89</feature:hasSizeRatio>
+<feature:hasSurfaceArea>3</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>5.16</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>28</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>49</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>55</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>60</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>19</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.90</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient9_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient9_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/diyql96bgosuvk1/09.JPG?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.73</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.00</feature:hasAspectRatio>
+<feature:hasSizeRatio>3.32</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>1.08</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>59</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>118</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>123</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>102</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>37</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.67</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient10_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient10_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/gjs595j1x7u7jjj/10.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.81</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.39</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.69</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>3.99</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>36</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>86</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>94</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>65</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>35</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.60</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient11_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient11_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/awwwzrf10wxt0o8/11.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.07</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>0.97</feature:hasAspectRatio>
+<feature:hasSizeRatio>1.48</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>1.8</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>92</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>89</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>108</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>98</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>73</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.83</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient12_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient12_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/7q8pk6ea9y0m9zg/12.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.83</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.41</feature:hasAspectRatio>
+<feature:hasSizeRatio>3.57</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>2.86</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>63</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>89</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>132</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>115</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>37</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.80</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient13_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient13_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/kvtgrrll0tpwbgt/13.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>2.14</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.64</feature:hasAspectRatio>
+<feature:hasSizeRatio>3.23</feature:hasSizeRatio>
+<feature:hasSurfaceArea>3</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>0.54</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>22</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>58</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>71</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>47</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>22</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.89</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient14_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient14_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/vyb3t76w2jbdc90/14.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.18</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.30</feature:hasAspectRatio>
+<feature:hasSizeRatio>4.97</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>0.56</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>134</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>174</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>184</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>158</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>37</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>4.21</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient15_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient15_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/hg0goryzm3nlsgc/15.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.91</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.20</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.65</feature:hasSizeRatio>
+<feature:hasSurfaceArea>3</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>3.72</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>35</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>42</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>53</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>67</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>20</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.66</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient16_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient16_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/lqejt71o49g7f3f/16.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.20</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>0.81</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.23</feature:hasSizeRatio>
+<feature:hasSurfaceArea>4</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>4.6</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>64</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>52</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>78</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>77</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>35</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.86</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient17_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient17_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/8bjyox8lnfzkxas/17.png?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>2.28</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.33</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.94</feature:hasSizeRatio>
+<feature:hasSurfaceArea>2</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>3.33</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>18</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>42</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>53</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>41</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>18</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.49</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient18_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient18_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/8uea65k88tihiyu/18.png?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.94</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>3.29</feature:hasAspectRatio>
+<feature:hasSizeRatio>3.63</feature:hasSizeRatio>
+<feature:hasSurfaceArea>2</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>3.36</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>17</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>56</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>58</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>33</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>16</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.84</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient19_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient19_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/lz3j7zrse1ne1go/Originaldsa-7.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>2.42</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.25</feature:hasAspectRatio>
+<feature:hasSizeRatio>3.33</feature:hasSizeRatio>
+<feature:hasSurfaceArea>1</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>4.75</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>12</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>27</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>30</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>29</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>9</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.32</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient20_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient20_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/usuam0qt717dkai/Originaldsa-8.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>6.09</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>8.55</feature:hasAspectRatio>
+<feature:hasSizeRatio>5.53</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>4.88</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>11</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>94</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>94</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>67</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>17</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>5.61</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient21_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient21_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/ug1dxps1m9mjegg/Originaldsa-9.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>6.67</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>6.50</feature:hasAspectRatio>
+<feature:hasSizeRatio>19.50</feature:hasSizeRatio>
+<feature:hasSurfaceArea>2</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>4.59</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>6</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>39</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>39</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>40</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>2</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>9.81</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient22_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient22_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/z9pdp0u7vhk07rv/Originaldsa-10.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>5.00</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>5.83</feature:hasAspectRatio>
+<feature:hasSizeRatio>7.43</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>0.78</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>29</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>169</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>171</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>145</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>23</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>5.85</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient23_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient23_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/lhmavhvdqrn9n9y/Originaldsa-11.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>2.20</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.40</feature:hasAspectRatio>
+<feature:hasSizeRatio>3.40</feature:hasSizeRatio>
+<feature:hasSurfaceArea>3</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>0.76</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>20</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>48</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>51</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>44</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>15</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.95</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient24_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient24_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/o2qbtarlhwwk4n1/Originaldsa-12.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>2.22</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.78</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.89</feature:hasSizeRatio>
+<feature:hasSurfaceArea>1</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>0.9</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>9</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>25</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>26</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>20</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>9</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>1.99</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient25_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient25_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/yuy0bh9lwufbsna/Originaldsa-13.png?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>6.83</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>4.83</feature:hasAspectRatio>
+<feature:hasSizeRatio>4.86</feature:hasSizeRatio>
+<feature:hasSurfaceArea>2</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>3.08</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>6</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>29</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>34</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>41</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>7</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.72</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient26_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient26_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/8c2zufkhn7w1gus/Originaldsa-14.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>2.85</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>3.05</feature:hasAspectRatio>
+<feature:hasSizeRatio>15.75</feature:hasSizeRatio>
+<feature:hasSurfaceArea>4</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>4.29</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>20</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>61</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>63</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>57</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>4</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>8.56</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient27_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient27_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/j0cfgzfysdcn8iq/Originaldsa15-pr.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.60</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.80</feature:hasAspectRatio>
+<feature:hasSizeRatio>6.00</feature:hasSizeRatio>
+<feature:hasSurfaceArea>4</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>2.25</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>35</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>63</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>66</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>56</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>11</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>4.37</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient_angiyography>
+<feature:hasURL></feature:hasURL>
+<feature:hasBottleNeckFacotr>MRA</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio></feature:hasAspectRatio>
+<feature:hasSizeRatio></feature:hasSizeRatio>
+<feature:hasSurfaceArea></feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor></feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter></feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck></feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight></feature:hasMaximumHeight>
+<feature:hasMaximumWidth></feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery></feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre></feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient28_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient28_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/du6s6bis9g86t2x/Originalmra1.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>3.64</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>3.18</feature:hasAspectRatio>
+<feature:hasSizeRatio>4.75</feature:hasSizeRatio>
+<feature:hasSurfaceArea>2</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>5.15</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>11</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>35</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>38</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>40</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>8</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.46</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient29_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient29_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/2a9geflmfkbn2wl/Originalmra2.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.75</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.16</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.68</feature:hasSizeRatio>
+<feature:hasSurfaceArea>4</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>3.26</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>32</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>69</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>75</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>56</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>28</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.14</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient30_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient30_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/has9leazcwwh4hm/Originalmra3.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>0.95</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>0.67</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.12</feature:hasSizeRatio>
+<feature:hasSurfaceArea>2</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>5.06</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>42</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>28</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>55</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>40</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>26</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.01</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient31_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient31_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/p8k1234imo06ej8/896_MRA.png?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.83</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.06</feature:hasAspectRatio>
+<feature:hasSizeRatio>3.54</feature:hasSizeRatio>
+<feature:hasSurfaceArea>4</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>2.7</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>47</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>50</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>85</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>86</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>24</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.35</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient32_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient32_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/f43cyiqtpc7c4ub/896_MRA-c.png?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>2.86</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.61</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.38</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>4.87</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>28</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>73</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>76</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>80</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>32</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.60</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient33_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient33_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/vbqgb4yv4i2g94b/935_b.png?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.96</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.79</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.88</feature:hasSizeRatio>
+<feature:hasSurfaceArea>3</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>2.6</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>28</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>50</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>69</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>55</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>24</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.76</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient34_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient34_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/towol57pfxxq6d0/34.png?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>2.50</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.42</feature:hasAspectRatio>
+<feature:hasSizeRatio>7.20</feature:hasSizeRatio>
+<feature:hasSurfaceArea>4</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>0.91</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>24</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>58</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>72</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>60</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>10</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>4.89</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient35_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient35_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/t4vrzin9ftimmtz/35.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>5.84</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>3.96</feature:hasAspectRatio>
+<feature:hasSizeRatio>6.71</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>4.97</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>51</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>202</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>208</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>298</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>31</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>5.62</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient36_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient36_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/iw8ir11n42aww5o/36.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>3.42</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>5.68</feature:hasAspectRatio>
+<feature:hasSizeRatio>9.08</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>5.30</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>19</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>108</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>118</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>65</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>13</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>6.64</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient37_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient37_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/q4srgqv0uarnl5l/37.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.56</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.53</feature:hasAspectRatio>
+<feature:hasSizeRatio>8.74</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>2.42</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>80</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>122</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>166</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>125</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>19</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>5.85</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient38_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient38_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/x696eelnm6orar3/38.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.29</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.29</feature:hasAspectRatio>
+<feature:hasSizeRatio>0.93</feature:hasSizeRatio>
+<feature:hasSurfaceArea>2</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>2.29</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>34</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>44</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>51</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>44</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>55</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>1.48</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient39_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient39_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/vs59nzyh39h486y/917_DSA_F36.png?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>0.98</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.20</feature:hasAspectRatio>
+<feature:hasSizeRatio>4.86</feature:hasSizeRatio>
+<feature:hasSurfaceArea>3</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>4.84</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>51</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>61</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>68</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>50</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>14</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.55</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient40_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient40_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/7zffbejllad6v5u/935_MRA_F32_74.png?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.24</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.12</feature:hasAspectRatio>
+<feature:hasSizeRatio>9.73</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>2.92</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>49</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>104</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>107</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>61</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>11</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>6.31</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient41_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient41_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/k620x0nintdli46/41.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.26</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.78</feature:hasAspectRatio>
+<feature:hasSizeRatio>6.28</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>2.08</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>50</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>89</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>113</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>63</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>18</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>4.86</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient42_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient42_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/oaa5xro80u6nn4p/935_MRA_F112_74.png?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.62</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.14</feature:hasAspectRatio>
+<feature:hasSizeRatio>5.33</feature:hasSizeRatio>
+<feature:hasSurfaceArea>4</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>0.9</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>37</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>79</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>80</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>60</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>15</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>4.07</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient43_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient43_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/o546ebk7x7arg64/43.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.31</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.28</feature:hasAspectRatio>
+<feature:hasSizeRatio>3.80</feature:hasSizeRatio>
+<feature:hasSurfaceArea>3</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>4.89</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>36</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>46</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>57</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>47</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>15</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.16</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient44_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient44_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/b8atcygzyga58do/44.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.63</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>2.38</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.63</feature:hasSizeRatio>
+<feature:hasSurfaceArea>0</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>4.82</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>8</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>19</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>21</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>13</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>8</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>1.61</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient45_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient45_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/223odv00aknjr3c/45.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>0.92</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>0.77</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.22</feature:hasSizeRatio>
+<feature:hasSurfaceArea>4</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>1.98</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>77</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>59</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>82</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>71</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>37</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>2.71</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient46_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient46_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/itunafq93l2ynfk/46.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.21</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>0.87</feature:hasAspectRatio>
+<feature:hasSizeRatio>6.53</feature:hasSizeRatio>
+<feature:hasSurfaceArea>5</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>1.98</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>87</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>76</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>98</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>105</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>15</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>4.86</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient47_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient47_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/xowv77avy5hp859/47.jpg?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>1.47</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>1.27</feature:hasAspectRatio>
+<feature:hasSizeRatio>4.50</feature:hasSizeRatio>
+<feature:hasSurfaceArea>4</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>4.77</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>45</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>57</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>54</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>66</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>12</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>3.84</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF><?xml version="1.0" encoding="UTF-8"?>
+ 
+ <rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:feature="http://Oakland.edu/Schema/relationship/">
+
+<rdf:Description rdf:about=http://Oakland.edu/Aneurysm>
+<feature:presentin>patient48_angiyography</feature:presentin>
+ </rdf:Description><rdf:Description rdf:about=http://Oakland.edu/Aneurysm/patient48_angiyography>
+<feature:hasURL>https://www.dropbox.com/s/u2vj17lhzrwyb9k/MRA3d185.png?dl=0</feature:hasURL>
+<feature:hasBottleNeckFacotr>0.82</feature:hasBottleNeckFacotr>
+<feature:hasAspectRatio>0.68</feature:hasAspectRatio>
+<feature:hasSizeRatio>2.62</feature:hasSizeRatio>
+<feature:hasSurfaceArea>1</feature:hasSurfaceArea>
+<feature:hasHemodynamicFactor>2.47</feature:hasHemodynamicFactor>
+<feature:hasNeckDiameter>34</feature:hasNeckDiameter>
+<feature:hasPerpendicularHeightFromNeck>23</feature:hasPerpendicularHeightFromNeck>
+<feature:hasMaximumHeight>34</feature:hasMaximumHeight>
+<feature:hasMaximumWidth>28</feature:hasMaximumWidth>
+<feature:hasAverageDiameterOfConnectingArtery>13</feature:hasAverageDiameterOfConnectingArtery>
+<feature:hasSocre>1.68</feature:hasSocre>
+</rdf:Description> 
+ 
+</rdf:RDF>
