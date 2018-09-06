@@ -1,0 +1,661 @@
+# filename: ann-data.ttl
+
+@prefix an: <http://oakland.edu/ns/aneurysm-data#> .
+
+an:patient1 an:imageURL "https://www.dropbox.com/s/h1jvx9ve2vff6rg/01.jpg?dl=0" .
+an:patient1 an:bottleNeckFactor "1.87" .
+an:patient1 an:aspectRatio "1.90" .
+an:patient1 an:sizeRatio "3.38" .
+an:patient1 an:surfaceArea "5" .
+an:patient1 an:hemodynamicFactor "0.72" .
+an:patient1 an:neckDiameter "39" .
+an:patient1 an:perpendicularHeightFromNeck "74" .
+an:patient1 an:maximumHeight "98" .
+an:patient1 an:maximumWidth "73" .
+an:patient1 an:averageDiameterOfConnectingArtery "29" .
+an:patient1 an:score "3.67" .
+
+an:patient2 an:imageURL "https://www.dropbox.com/s/15p4ffra9utnzwe/02.jpg?dl=0" .
+an:patient2 an:bottleNeckFactor "1.29" .
+an:patient2 an:aspectRatio "1.47" .
+an:patient2 an:sizeRatio "3.85" .
+an:patient2 an:surfaceArea "3" .
+an:patient2 an:hemodynamicFactor "4.08" .
+an:patient2 an:neckDiameter "34" .
+an:patient2 an:perpendicularHeightFromNeck "50" .
+an:patient2 an:maximumHeight "50" .
+an:patient2 an:maximumWidth "44" .
+an:patient2 an:averageDiameterOfConnectingArtery "13" .
+an:patient2 an:score "3.15" .
+
+
+an:patient3 an:imageURL "https://www.dropbox.com/s/h3ximcmkjirhjwo/03.jpg?dl=0" .
+an:patient3 an:bottleNeckFactor "3.38" .
+an:patient3 an:aspectRatio "4.00" .
+an:patient3 an:sizeRatio "3.60" .
+an:patient3 an:surfaceArea "4" .
+an:patient3 an:hemodynamicFactor "1.14" .
+an:patient3 an:neckDiameter "16" .
+an:patient3 an:perpendicularHeightFromNeck "64" .
+an:patient3 an:maximumHeight "72" .
+an:patient3 an:maximumWidth "54" .
+an:patient3 an:averageDiameterOfConnectingArtery "20" .
+an:patient3 an:score "3.67" .
+
+an:patient4 an:imageURL "https://www.dropbox.com/s/tsxhhvne5mqykeu/04.jpg?dl=0" .
+an:patient4 an:bottleNeckFactor "1.02" .
+an:patient4 an:aspectRatio "1.09" .
+an:patient4 an:sizeRatio "2.33" .
+an:patient4 an:surfaceArea "4" .
+an:patient4 an:hemodynamicFactor "1.96" .
+an:patient4 an:neckDiameter "55" .
+an:patient4 an:perpendicularHeightFromNeck "60" .
+an:patient4 an:maximumHeight "77" .
+an:patient4 an:maximumWidth "56" .
+an:patient4 an:averageDiameterOfConnectingArtery "33" .
+an:patient4 an:score "2.79" .
+
+
+an:patient5 an:imageURL "https://www.dropbox.com/s/gu2knc3pg0cpd43/05.jpg?dl=0" .
+an:patient5 an:bottleNeckFactor "3.97" .
+an:patient5 an:aspectRatio "5.21" .
+an:patient5 an:sizeRatio "7.95" .
+an:patient5 an:surfaceArea "5" .
+an:patient5 an:hemodynamicFactor "2.26" .
+an:patient5 an:neckDiameter "29" .
+an:patient5 an:perpendicularHeightFromNeck "151" .
+an:patient5 an:maximumHeight "159" .
+an:patient5 an:maximumWidth "115" .
+an:patient5 an:averageDiameterOfConnectingArtery "20" .
+an:patient5 an:score "6.01" .
+
+an:patient6 an:imageURL "https://www.dropbox.com/s/xzsdomhtcf24z1i/06.jpg?dl=0" .
+an:patient6 an:bottleNeckFactor "1.94" .
+an:patient6 an:aspectRatio "2.08" .
+an:patient6 an:sizeRatio "4.14" .
+an:patient6 an:surfaceArea "5" .
+an:patient6 an:hemodynamicFactor "0.84" .
+an:patient6 an:neckDiameter "36" .
+an:patient6 an:perpendicularHeightFromNeck "75" .
+an:patient6 an:maximumHeight "87" .
+an:patient6 an:maximumWidth "70" .
+an:patient6 an:averageDiameterOfConnectingArtery "21" .
+an:patient6 an:score "4.00" .
+
+an:patient7 an:imageURL "https://www.dropbox.com/s/tx87ogtk0s76qvy/07.jpg?dl=0" .
+an:patient7 an:bottleNeckFactor "1.42" .
+an:patient7 an:aspectRatio "0.89" .
+an:patient7 an:sizeRatio "4.29" .
+an:patient7 an:surfaceArea "3" .
+an:patient7 an:hemodynamicFactor "1.84" .
+an:patient7 an:neckDiameter "45" .
+an:patient7 an:perpendicularHeightFromNeck "40" .
+an:patient7 an:maximumHeight "60" .
+an:patient7 an:maximumWidth "64" .
+an:patient7 an:averageDiameterOfConnectingArtery "14" .
+an:patient7 an:score "3.17".
+
+an:patient8 an:imageURL "https://www.dropbox.com/s/b60edb490zhe95z/08.jpg?dl=0" .
+an:patient8 an:bottleNeckFactor "2.14" .
+an:patient8 an:aspectRatio "1.75" .
+an:patient8 an:sizeRatio "2.89" .
+an:patient8 an:surfaceArea "3" .
+an:patient8 an:hemodynamicFactor "5.16" .
+an:patient8 an:neckDiameter "28" .
+an:patient8 an:perpendicularHeightFromNeck "49" .
+an:patient8 an:maximumHeight "55" .
+an:patient8 an:maximumWidth "60" .
+an:patient8 an:averageDiameterOfConnectingArtery "19" .
+an:patient8 an:score "2.90" .
+
+an:patient9 an:imageURL "https://www.dropbox.com/s/diyql96bgosuvk1/09.JPG?dl=0" .
+an:patient9 an:bottleNeckFactor "1.73" .
+an:patient9 an:aspectRatio "2.00" .
+an:patient9 an:sizeRatio "3.32" .
+an:patient9 an:surfaceArea "5" .
+an:patient9 an:hemodynamicFactor "1.08" .
+an:patient9 an:neckDiameter "59" .
+an:patient9 an:perpendicularHeightFromNeck "118" .
+an:patient9 an:maximumHeight "123" .
+an:patient9 an:maximumWidth "102" .
+an:patient9 an:averageDiameterOfConnectingArtery "37" .
+an:patient9 an:score "3.67" .
+
+an:patient10 an:imageURL "https://www.dropbox.com/s/gjs595j1x7u7jjj/10.jpg?dl=0" .
+an:patient10 an:bottleNeckFactor "1.81" .
+an:patient10 an:aspectRatio "2.39" .
+an:patient10 an:sizeRatio "2.69" .
+an:patient10 an:surfaceArea "5" .
+an:patient10 an:hemodynamicFactor "3.99" .
+an:patient10 an:neckDiameter "36" .
+an:patient10 an:perpendicularHeightFromNeck "86" .
+an:patient10 an:maximumHeight "94" .
+an:patient10 an:maximumWidth "65" .
+an:patient10 an:averageDiameterOfConnectingArtery "35" .
+an:patient10 an:score "3.60" .
+
+an:patient11 an:imageURL "https://www.dropbox.com/s/awwwzrf10wxt0o8/11.jpg?dl=0" .
+an:patient11 an:bottleNeckFactor "1.07" .
+an:patient11 an:aspectRatio "0.97" .
+an:patient11 an:sizeRatio "1.48" .
+an:patient11 an:surfaceArea "5" .
+an:patient11 an:hemodynamicFactor "1.8" .
+an:patient11 an:neckDiameter "92" .
+an:patient11 an:perpendicularHeightFromNeck "89" .
+an:patient11 an:maximumHeight "108" .
+an:patient11 an:maximumWidth "98" .
+an:patient11 an:averageDiameterOfConnectingArtery "73" .
+an:patient11 an:score "2.83" .
+
+an:patient12 an:imageURL "https://www.dropbox.com/s/7q8pk6ea9y0m9zg/12.jpg?dl=0" .
+an:patient12 an:bottleNeckFactor "1.83" .
+an:patient12 an:aspectRatio "1.41" .
+an:patient12 an:sizeRatio "3.57" .
+an:patient12 an:surfaceArea "5" .
+an:patient12 an:hemodynamicFactor "2.86" .
+an:patient12 an:neckDiameter "63" .
+an:patient12 an:perpendicularHeightFromNeck "89" .
+an:patient12 an:maximumHeight "132" .
+an:patient12 an:maximumWidth "115" .
+an:patient12 an:averageDiameterOfConnectingArtery "37" .
+an:patient12 an:score "3.80" .
+
+
+an:patient13 an:imageURL "https://www.dropbox.com/s/kvtgrrll0tpwbgt/13.jpg?dl=0" .
+an:patient13 an:bottleNeckFactor "2.14" .
+an:patient13 an:aspectRatio "2.64" .
+an:patient13 an:sizeRatio "3.23" .
+an:patient13 an:surfaceArea "3" .
+an:patient13 an:hemodynamicFactor "0.54" .
+an:patient13 an:neckDiameter "22" .
+an:patient13 an:perpendicularHeightFromNeck "58" .
+an:patient13 an:maximumHeight "71" .
+an:patient13 an:maximumWidth "47" .
+an:patient13 an:averageDiameterOfConnectingArtery "22" .
+an:patient13 an:score "2.89" .
+
+
+an:patient14 an:imageURL "https://www.dropbox.com/s/vyb3t76w2jbdc90/14.jpg?dl=0" .
+an:patient14 an:bottleNeckFactor "1.18" .
+an:patient14 an:aspectRatio "1.30" .
+an:patient14 an:sizeRatio "4.97" .
+an:patient14 an:surfaceArea "5" .
+an:patient14 an:hemodynamicFactor "0.56" .
+an:patient14 an:neckDiameter "134" .
+an:patient14 an:perpendicularHeightFromNeck "174" .
+an:patient14 an:maximumHeight "184" .
+an:patient14 an:maximumWidth "158" .
+an:patient14 an:averageDiameterOfConnectingArtery "37" .
+an:patient14 an:score "4.21" .
+
+
+an:patient15 an:imageURL "https://www.dropbox.com/s/hg0goryzm3nlsgc/15.jpg?dl=0" .
+an:patient15 an:bottleNeckFactor "1.91" .
+an:patient15 an:aspectRatio "1.20" .
+an:patient15 an:sizeRatio "2.65" .
+an:patient15 an:surfaceArea "3" .
+an:patient15 an:hemodynamicFactor "3.72" .
+an:patient15 an:neckDiameter "35" .
+an:patient15 an:perpendicularHeightFromNeck "42" .
+an:patient15 an:maximumHeight "53" .
+an:patient15 an:maximumWidth "67" .
+an:patient15 an:averageDiameterOfConnectingArtery "20" .
+an:patient15 an:score "2.66" .
+
+an:patient16 an:imageURL "https://www.dropbox.com/s/lqejt71o49g7f3f/16.jpg?dl=0" .
+an:patient16 an:bottleNeckFactor "1.20" .
+an:patient16 an:aspectRatio "0.81" .
+an:patient16 an:sizeRatio "2.23" .
+an:patient16 an:surfaceArea "4" .
+an:patient16 an:hemodynamicFactor "4.6" .
+an:patient16 an:neckDiameter "64" .
+an:patient16 an:perpendicularHeightFromNeck "52" .
+an:patient16 an:maximumHeight "78" .
+an:patient16 an:maximumWidth "77" .
+an:patient16 an:averageDiameterOfConnectingArtery "35" .
+an:patient16 an:score "2.86" .
+
+
+an:patient17 an:imageURL "https://www.dropbox.com/s/8bjyox8lnfzkxas/17.png?dl=0" .
+an:patient17 an:bottleNeckFactor "2.28" .
+an:patient17 an:aspectRatio "2.33" .
+an:patient17 an:sizeRatio "2.94" .
+an:patient17 an:surfaceArea "2" .
+an:patient17 an:hemodynamicFactor "3.33" .
+an:patient17 an:neckDiameter "18" .
+an:patient17 an:perpendicularHeightFromNeck "42" .
+an:patient17 an:maximumHeight "53" .
+an:patient17 an:maximumWidth "41" .
+an:patient17 an:averageDiameterOfConnectingArtery "18" .
+an:patient17 an:score "2.49" .
+
+
+an:patient18 an:imageURL "https://www.dropbox.com/s/8uea65k88tihiyu/18.png?dl=0" .
+an:patient18 an:bottleNeckFactor "1.94" .
+an:patient18 an:aspectRatio "3.29" .
+an:patient18 an:sizeRatio "3.63" .
+an:patient18 an:surfaceArea "2" .
+an:patient18 an:hemodynamicFactor "3.36" .
+an:patient18 an:neckDiameter "17" .
+an:patient18 an:perpendicularHeightFromNeck "56" .
+an:patient18 an:maximumHeight "58" .
+an:patient18 an:maximumWidth "33" .
+an:patient18 an:averageDiameterOfConnectingArtery "16" .
+an:patient18 an:score "2.84" .
+
+
+an:patient19 an:imageURL "https://www.dropbox.com/s/lz3j7zrse1ne1go/Originaldsa-7.jpg?dl=0" .
+an:patient19 an:bottleNeckFactor "2.42" .
+an:patient19 an:aspectRatio "2.25" .
+an:patient19 an:sizeRatio "3.33" .
+an:patient19 an:surfaceArea "1" .
+an:patient19 an:hemodynamicFactor "4.75" .
+an:patient19 an:neckDiameter "12" .
+an:patient19 an:perpendicularHeightFromNeck "27" .
+an:patient19 an:maximumHeight "30" .
+an:patient19 an:maximumWidth "29" .
+an:patient19 an:averageDiameterOfConnectingArtery "9" .
+an:patient19 an:score "2.32" .
+
+an:patient20 an:imageURL "https://www.dropbox.com/s/usuam0qt717dkai/Originaldsa-8.jpg?dl=0" .
+an:patient20 an:bottleNeckFactor "6.09" .
+an:patient20 an:aspectRatio "8.55" .
+an:patient20 an:sizeRatio "5.53" .
+an:patient20 an:surfaceArea "5" .
+an:patient20 an:hemodynamicFactor "4.88" .
+an:patient20 an:neckDiameter "11" .
+an:patient20 an:perpendicularHeightFromNeck "94" .
+an:patient20 an:maximumHeight "94" .
+an:patient20 an:maximumWidth "67" .
+an:patient20 an:averageDiameterOfConnectingArtery "17" .
+an:patient20 an:score "5.61" .
+
+
+an:patient21 an:imageURL "https://www.dropbox.com/s/ug1dxps1m9mjegg/Originaldsa-9.jpg?dl=0" .
+an:patient21 an:bottleNeckFactor "6.67" .
+an:patient21 an:aspectRatio "6.50" .
+an:patient21 an:sizeRatio "19.50" .
+an:patient21 an:surfaceArea "2" .
+an:patient21 an:hemodynamicFactor "4.59" .
+an:patient21 an:neckDiameter "6" .
+an:patient21 an:perpendicularHeightFromNeck "39" .
+an:patient21 an:maximumHeight "39" .
+an:patient21 an:maximumWidth "40" .
+an:patient21 an:averageDiameterOfConnectingArtery "2" .
+an:patient21 an:score "9.81" .
+
+an:patient22 an:imageURL "https://www.dropbox.com/s/z9pdp0u7vhk07rv/Originaldsa-10.jpg?dl=0" .
+an:patient22 an:bottleNeckFactor "5.00" .
+an:patient22 an:aspectRatio "5.83" .
+an:patient22 an:sizeRatio "7.43" .
+an:patient22 an:surfaceArea "5" .
+an:patient22 an:hemodynamicFactor "0.78" .
+an:patient22 an:neckDiameter "29" .
+an:patient22 an:perpendicularHeightFromNeck "169" .
+an:patient22 an:maximumHeight "171" .
+an:patient22 an:maximumWidth "145" .
+an:patient22 an:averageDiameterOfConnectingArtery "23" .
+an:patient22 an:score "5.85" .
+
+
+an:patient23 an:imageURL "https://www.dropbox.com/s/lhmavhvdqrn9n9y/Originaldsa-11.jpg?dl=0" .
+an:patient23 an:bottleNeckFactor "2.20" .
+an:patient23 an:aspectRatio "2.40" .
+an:patient23 an:sizeRatio "3.40" .
+an:patient23 an:surfaceArea "3" .
+an:patient23 an:hemodynamicFactor "0.76" .
+an:patient23 an:neckDiameter "20" .
+an:patient23 an:perpendicularHeightFromNeck "48" .
+an:patient23 an:maximumHeight "51" .
+an:patient23 an:maximumWidth "44" .
+an:patient23 an:averageDiameterOfConnectingArtery "15" .
+an:patient23 an:score "2.95" .
+
+
+an:patient24 an:imageURL "https://www.dropbox.com/s/o2qbtarlhwwk4n1/Originaldsa-12.jpg?dl=0" .
+an:patient24 an:bottleNeckFactor "2.22" .
+an:patient24 an:aspectRatio "2.78" .
+an:patient24 an:sizeRatio "2.89" .
+an:patient24 an:surfaceArea "1" .
+an:patient24 an:hemodynamicFactor "0.9" .
+an:patient24 an:neckDiameter "9" .
+an:patient24 an:perpendicularHeightFromNeck "25" .
+an:patient24 an:maximumHeight "26" .
+an:patient24 an:maximumWidth "20" .
+an:patient24 an:averageDiameterOfConnectingArtery "9" .
+an:patient24 an:score "1.99" .
+
+
+an:patient25 an:imageURL "https://www.dropbox.com/s/yuy0bh9lwufbsna/Originaldsa-13.png?dl=0" .
+an:patient25 an:bottleNeckFactor "6.83" .
+an:patient25 an:aspectRatio "4.83" .
+an:patient25 an:sizeRatio "4.86" .
+an:patient25 an:surfaceArea "2" .
+an:patient25 an:hemodynamicFactor "3.08" .
+an:patient25 an:neckDiameter "6" .
+an:patient25 an:perpendicularHeightFromNeck "29" .
+an:patient25 an:maximumHeight "34" .
+an:patient25 an:maximumWidth "41" .
+an:patient25 an:averageDiameterOfConnectingArtery "7" .
+an:patient25 an:score "3.72" .
+
+
+an:patient26 an:imageURL "https://www.dropbox.com/s/8c2zufkhn7w1gus/Originaldsa-14.jpg?dl=0" .
+an:patient26 an:bottleNeckFactor "2.85" .
+an:patient26 an:aspectRatio "3.05" .
+an:patient26 an:sizeRatio "15.75" .
+an:patient26 an:surfaceArea "4" .
+an:patient26 an:hemodynamicFactor "4.29" .
+an:patient26 an:neckDiameter "20" .
+an:patient26 an:perpendicularHeightFromNeck "61" .
+an:patient26 an:maximumHeight "63" .
+an:patient26 an:maximumWidth "57" .
+an:patient26 an:averageDiameterOfConnectingArtery "4" .
+an:patient26 an:score "8.56" .
+
+
+an:patient27 an:imageURL "https://www.dropbox.com/s/j0cfgzfysdcn8iq/Originaldsa15-pr.jpg?dl=0" .
+an:patient27 an:bottleNeckFactor "1.60" .
+an:patient27 an:aspectRatio "1.80" .
+an:patient27 an:sizeRatio "6.00" .
+an:patient27 an:surfaceArea "4" .
+an:patient27 an:hemodynamicFactor "2.25" .
+an:patient27 an:neckDiameter "35" .
+an:patient27 an:perpendicularHeightFromNeck "63" .
+an:patient27 an:maximumHeight "66" .
+an:patient27 an:maximumWidth "56" .
+an:patient27 an:averageDiameterOfConnectingArtery "11" .
+an:patient27 an:score "4.37" .
+
+an:patient28 an:imageURL "https://www.dropbox.com/s/du6s6bis9g86t2x/Originalmra1.jpg?dl=0" .
+an:patient28 an:bottleNeckFactor "3.64" .
+an:patient28 an:aspectRatio "3.18" .
+an:patient28 an:sizeRatio "4.75" .
+an:patient28 an:surfaceArea "2" .
+an:patient28 an:hemodynamicFactor "5.15" .
+an:patient28 an:neckDiameter "11" .
+an:patient28 an:perpendicularHeightFromNeck "35" .
+an:patient28 an:maximumHeight "38" .
+an:patient28 an:maximumWidth "40" .
+an:patient28 an:averageDiameterOfConnectingArtery "8" .
+an:patient28 an:score "3.46" .
+
+
+an:patient29 an:imageURL "https://www.dropbox.com/s/2a9geflmfkbn2wl/Originalmra2.jpg?dl=0" .
+an:patient29 an:bottleNeckFactor "1.75" .
+an:patient29 an:aspectRatio "2.16" .
+an:patient29 an:sizeRatio "2.68" .
+an:patient29 an:surfaceArea "4" .
+an:patient29 an:hemodynamicFactor "3.26" .
+an:patient29 an:neckDiameter "32" .
+an:patient29 an:perpendicularHeightFromNeck "69" .
+an:patient29 an:maximumHeight "75" .
+an:patient29 an:maximumWidth "56" .
+an:patient29 an:averageDiameterOfConnectingArtery "28" .
+an:patient29 an:score "3.14" .
+
+
+an:patient30 an:imageURL "https://www.dropbox.com/s/has9leazcwwh4hm/Originalmra3.jpg?dl=0" .
+an:patient30 an:bottleNeckFactor "0.95" .
+an:patient30 an:aspectRatio "0.67" .
+an:patient30 an:sizeRatio "2.12" .
+an:patient30 an:surfaceArea "2" .
+an:patient30 an:hemodynamicFactor "5.06" .
+an:patient30 an:neckDiameter "42" .
+an:patient30 an:perpendicularHeightFromNeck "28" .
+an:patient30 an:maximumHeight "55" .
+an:patient30 an:maximumWidth "40" .
+an:patient30 an:averageDiameterOfConnectingArtery "26" .
+an:patient30 an:score "2.01" .
+
+
+an:patient31 an:imageURL "https://www.dropbox.com/s/p8k1234imo06ej8/896_MRA.png?dl=0" .
+an:patient31 an:bottleNeckFactor "1.83" .
+an:patient31 an:aspectRatio "1.06" .
+an:patient31 an:sizeRatio "3.54" .
+an:patient31 an:surfaceArea "4" .
+an:patient31 an:hemodynamicFactor "2.7" .
+an:patient31 an:neckDiameter "47" .
+an:patient31 an:perpendicularHeightFromNeck "50" .
+an:patient31 an:maximumHeight "85" .
+an:patient31 an:maximumWidth "86" .
+an:patient31 an:averageDiameterOfConnectingArtery "24" .
+an:patient31 an:score "3.35" .
+
+
+an:patient32 an:imageURL "https://www.dropbox.com/s/f43cyiqtpc7c4ub/896_MRA-c.png?dl=0" .
+an:patient32 an:bottleNeckFactor "2.86" .
+an:patient32 an:aspectRatio "2.61" .
+an:patient32 an:sizeRatio "2.38" .
+an:patient32 an:surfaceArea "5" .
+an:patient32 an:hemodynamicFactor "4.87" .
+an:patient32 an:neckDiameter "28" .
+an:patient32 an:perpendicularHeightFromNeck "73" .
+an:patient32 an:maximumHeight "76" .
+an:patient32 an:maximumWidth "80" .
+an:patient32 an:averageDiameterOfConnectingArtery "32" .
+an:patient32 an:score "3.60" .
+
+
+an:patient33 an:imageURL "https://www.dropbox.com/s/vbqgb4yv4i2g94b/935_b.png?dl=0" .
+an:patient33 an:bottleNeckFactor "1.96" .
+an:patient33 an:aspectRatio "1.79" .
+an:patient33 an:sizeRatio "2.88" .
+an:patient33 an:surfaceArea "3" .
+an:patient33 an:hemodynamicFactor "2.6" .
+an:patient33 an:neckDiameter "28" .
+an:patient33 an:perpendicularHeightFromNeck "50" .
+an:patient33 an:maximumHeight "69" .
+an:patient33 an:maximumWidth "55" .
+an:patient33 an:averageDiameterOfConnectingArtery "24" .
+an:patient33 an:score "2.76" .
+
+
+an:patient34 an:imageURL "https://www.dropbox.com/s/towol57pfxxq6d0/34.png?dl=0" .
+an:patient34 an:bottleNeckFactor "2.50" .
+an:patient34 an:aspectRatio "2.42" .
+an:patient34 an:sizeRatio "7.20" .
+an:patient34 an:surfaceArea "4" .
+an:patient34 an:hemodynamicFactor "0.91" .
+an:patient34 an:neckDiameter "24" .
+an:patient34 an:perpendicularHeightFromNeck "58" .
+an:patient34 an:maximumHeight "72" .
+an:patient34 an:maximumWidth "60" .
+an:patient34 an:averageDiameterOfConnectingArtery "10" .
+an:patient34 an:score "4.89" .
+
+
+an:patient35 an:imageURL "https://www.dropbox.com/s/t4vrzin9ftimmtz/35.jpg?dl=0" .
+an:patient35 an:bottleNeckFactor "5.84" .
+an:patient35 an:aspectRatio "3.96" .
+an:patient35 an:sizeRatio "6.71" .
+an:patient35 an:surfaceArea "5" .
+an:patient35 an:hemodynamicFactor "4.97" .
+an:patient35 an:neckDiameter "51" .
+an:patient35 an:perpendicularHeightFromNeck "202" .
+an:patient35 an:maximumHeight "208" .
+an:patient35 an:maximumWidth "298" .
+an:patient35 an:averageDiameterOfConnectingArtery "31" .
+an:patient35 an:score "5.62" .
+
+
+an:patient36 an:imageURL "https://www.dropbox.com/s/iw8ir11n42aww5o/36.jpg?dl=0" .
+an:patient36 an:bottleNeckFactor "3.42" .
+an:patient36 an:aspectRatio "5.68" .
+an:patient36 an:sizeRatio "9.08" .
+an:patient36 an:surfaceArea "5" .
+an:patient36 an:hemodynamicFactor "5.30" .
+an:patient36 an:neckDiameter "19" .
+an:patient36 an:perpendicularHeightFromNeck "108" .
+an:patient36 an:maximumHeight "118" .
+an:patient36 an:maximumWidth "65" .
+an:patient36 an:averageDiameterOfConnectingArtery "13" .
+an:patient36 an:score "6.64" .
+
+
+an:patient37 an:imageURL "https://www.dropbox.com/s/q4srgqv0uarnl5l/37.jpg?dl=0" .
+an:patient37 an:bottleNeckFactor "1.56" .
+an:patient37 an:aspectRatio "1.53" .
+an:patient37 an:sizeRatio "8.74" .
+an:patient37 an:surfaceArea "5" .
+an:patient37 an:hemodynamicFactor "2.42" .
+an:patient37 an:neckDiameter "80" .
+an:patient37 an:perpendicularHeightFromNeck "122" .
+an:patient37 an:maximumHeight "166" .
+an:patient37 an:maximumWidth "125" .
+an:patient37 an:averageDiameterOfConnectingArtery "19" .
+an:patient37 an:score "5.85" .
+
+
+an:patient38 an:imageURL "https://www.dropbox.com/s/x696eelnm6orar3/38.jpg?dl=0" .
+an:patient38 an:bottleNeckFactor "1.29" .
+an:patient38 an:aspectRatio "1.29" .
+an:patient38 an:sizeRatio "0.93" .
+an:patient38 an:surfaceArea "2" .
+an:patient38 an:hemodynamicFactor "2.29" .
+an:patient38 an:neckDiameter "34" .
+an:patient38 an:perpendicularHeightFromNeck "44" .
+an:patient38 an:maximumHeight "51" .
+an:patient38 an:maximumWidth "44" .
+an:patient38 an:averageDiameterOfConnectingArtery "55" .
+an:patient38 an:score "1.48" .
+
+
+an:patient39 an:imageURL "https://www.dropbox.com/s/vs59nzyh39h486y/917_DSA_F36.png?dl=0" .
+an:patient39 an:bottleNeckFactor "0.98" .
+an:patient39 an:aspectRatio "1.20" .
+an:patient39 an:sizeRatio "4.86" .
+an:patient39 an:surfaceArea "3" .
+an:patient39 an:hemodynamicFactor "4.84" .
+an:patient39 an:neckDiameter "51" .
+an:patient39 an:perpendicularHeightFromNeck "61" .
+an:patient39 an:maximumHeight "68" .
+an:patient39 an:maximumWidth "50" .
+an:patient39 an:averageDiameterOfConnectingArtery "14" .
+an:patient39 an:score "3.55" .
+
+
+an:patient40 an:imageURL "https://www.dropbox.com/s/7zffbejllad6v5u/935_MRA_F32_74.png?dl=0" .
+an:patient40 an:bottleNeckFactor "1.24" .
+an:patient40 an:aspectRatio "2.12" .
+an:patient40 an:sizeRatio "9.73" .
+an:patient40 an:surfaceArea "5" .
+an:patient40 an:hemodynamicFactor "2.92" .
+an:patient40 an:neckDiameter "49" .
+an:patient40 an:perpendicularHeightFromNeck "104" .
+an:patient40 an:maximumHeight "107" .
+an:patient40 an:maximumWidth "61" .
+an:patient40 an:averageDiameterOfConnectingArtery "11" .
+an:patient40 an:score "6.31" .
+
+
+an:patient41 an:imageURL "https://www.dropbox.com/s/k620x0nintdli46/41.jpg?dl=0" .
+an:patient41 an:bottleNeckFactor "1.26" .
+an:patient41 an:aspectRatio "1.78" .
+an:patient41 an:sizeRatio "6.28" .
+an:patient41 an:surfaceArea "5" .
+an:patient41 an:hemodynamicFactor "2.08" .
+an:patient41 an:neckDiameter "50" .
+an:patient41 an:perpendicularHeightFromNeck "89" .
+an:patient41 an:maximumHeight "113" .
+an:patient41 an:maximumWidth "63" .
+an:patient41 an:averageDiameterOfConnectingArtery "18" .
+an:patient41 an:score "4.86" .
+
+
+an:patient42 an:imageURL "https://www.dropbox.com/s/oaa5xro80u6nn4p/935_MRA_F112_74.png?dl=0" .
+an:patient42 an:bottleNeckFactor "1.62" .
+an:patient42 an:aspectRatio "2.14" .
+an:patient42 an:sizeRatio "5.33" .
+an:patient42 an:surfaceArea "4" .
+an:patient42 an:hemodynamicFactor "0.9" .
+an:patient42 an:neckDiameter "37" .
+an:patient42 an:perpendicularHeightFromNeck "79" .
+an:patient42 an:maximumHeight "80" .
+an:patient42 an:maximumWidth "60" .
+an:patient42 an:averageDiameterOfConnectingArtery "15" .
+an:patient42 an:score "4.07" .
+
+
+an:patient43 an:imageURL "https://www.dropbox.com/s/o546ebk7x7arg64/43.jpg?dl=0" .
+an:patient43 an:bottleNeckFactor "1.31" .
+an:patient43 an:aspectRatio "1.28" .
+an:patient43 an:sizeRatio "3.80" .
+an:patient43 an:surfaceArea "3" .
+an:patient43 an:hemodynamicFactor "4.89" .
+an:patient43 an:neckDiameter "36" .
+an:patient43 an:perpendicularHeightFromNeck "46" .
+an:patient43 an:maximumHeight "57" .
+an:patient43 an:maximumWidth "47" .
+an:patient43 an:averageDiameterOfConnectingArtery "15" .
+an:patient43 an:score "3.16" .
+
+
+an:patient44 an:imageURL "https://www.dropbox.com/s/b8atcygzyga58do/44.jpg?dl=0" .
+an:patient44 an:bottleNeckFactor "1.63" .
+an:patient44 an:aspectRatio "2.38" .
+an:patient44 an:sizeRatio "2.63" .
+an:patient44 an:surfaceArea "0" .
+an:patient44 an:hemodynamicFactor "4.82" .
+an:patient44 an:neckDiameter "8" .
+an:patient44 an:perpendicularHeightFromNeck "19" .
+an:patient44 an:maximumHeight "21" .
+an:patient44 an:maximumWidth "13" .
+an:patient44 an:averageDiameterOfConnectingArtery "8" .
+an:patient44 an:score "1.61" .
+
+
+an:patient45 an:imageURL "https://www.dropbox.com/s/223odv00aknjr3c/45.jpg?dl=0" .
+an:patient45 an:bottleNeckFactor "0.92" .
+an:patient45 an:aspectRatio "0.77" .
+an:patient45 an:sizeRatio "2.22" .
+an:patient45 an:surfaceArea "4" .
+an:patient45 an:hemodynamicFactor "1.98" .
+an:patient45 an:neckDiameter "77" .
+an:patient45 an:perpendicularHeightFromNeck "59" .
+an:patient45 an:maximumHeight "82" .
+an:patient45 an:maximumWidth "71" .
+an:patient45 an:averageDiameterOfConnectingArtery "37" .
+an:patient45 an:score "2.71" .
+
+
+an:patient46 an:imageURL "https://www.dropbox.com/s/itunafq93l2ynfk/46.jpg?dl=0" .
+an:patient46 an:bottleNeckFactor "1.21" .
+an:patient46 an:aspectRatio "0.87" .
+an:patient46 an:sizeRatio "6.53" .
+an:patient46 an:surfaceArea "5" .
+an:patient46 an:hemodynamicFactor "1.98" .
+an:patient46 an:neckDiameter "87" .
+an:patient46 an:perpendicularHeightFromNeck "76" .
+an:patient46 an:maximumHeight "98" .
+an:patient46 an:maximumWidth "105" .
+an:patient46 an:averageDiameterOfConnectingArtery "15" .
+an:patient46 an:score "4.86" .
+
+
+an:patient47 an:imageURL "https://www.dropbox.com/s/xowv77avy5hp859/47.jpg?dl=0" .
+an:patient47 an:bottleNeckFactor "1.47" .
+an:patient47 an:aspectRatio "1.27" .
+an:patient47 an:sizeRatio "4.50" .
+an:patient47 an:surfaceArea "4" .
+an:patient47 an:hemodynamicFactor "4.77" .
+an:patient47 an:neckDiameter "45" .
+an:patient47 an:perpendicularHeightFromNeck "57" .
+an:patient47 an:maximumHeight "54" .
+an:patient47 an:maximumWidth "66" .
+an:patient47 an:averageDiameterOfConnectingArtery "12" .
+an:patient47 an:score "3.84" .
+
+
+an:patient48 an:imageURL "https://www.dropbox.com/s/u2vj17lhzrwyb9k/MRA3d185.png?dl=0" .
+an:patient48 an:bottleNeckFactor "0.82" .
+an:patient48 an:aspectRatio "0.68" .
+an:patient48 an:sizeRatio "2.62" .
+an:patient48 an:surfaceArea "1" .
+an:patient48 an:hemodynamicFactor "2.47" .
+an:patient48 an:neckDiameter "34" .
+an:patient48 an:perpendicularHeightFromNeck "23" .
+an:patient48 an:maximumHeight "34" .
+an:patient48 an:maximumWidth "28" .
+an:patient48 an:averageDiameterOfConnectingArtery "13" .
+an:patient48 an:score "1.68" .
